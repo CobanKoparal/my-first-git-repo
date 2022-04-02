@@ -1,8 +1,0 @@
-public class C01_variables {
-    public static void main(String[] args) { 
- String ogrenciIsim = "Seda";
-
-
-        System.out.println(ogrenciIsim);
-}
-}
